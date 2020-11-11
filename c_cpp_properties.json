@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "GCC",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "Leetcode_Daily_question\\leetcode_heder"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.18362.0",
+            "compilerPath": "C:/MinGW/bin/gcc.exe",
+            "cStandard": "c11",
+            "intelliSenseMode": "gcc-x64",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
